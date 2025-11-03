@@ -19,6 +19,7 @@
     },
     "dependencies": {
         "jspdf": "^3.0.1",
+        "readme-md-generator": "^1.0.0",
         "simple-datatables": "^10.0.0",
         "sweetalert2": "^11.17.2"
     }
