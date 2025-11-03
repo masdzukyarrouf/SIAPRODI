@@ -74,7 +74,22 @@ SIAPRODI/
 ├── routes/
 │   ├── web.php
 │   └── api.php
-└── .env.example
+├── storage/
+├── tests/
+├── .editorconfig
+├── .env.example
+├── .gitattributes
+├── .gitignore
+├── artisan
+├── composer.json
+├── composer.lock
+├── package.json
+├── package-lock.json
+├── phpunit.xml
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
 ```
 
 ## 🤝 Kontribusi
