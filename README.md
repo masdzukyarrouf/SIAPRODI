@@ -3,12 +3,12 @@
 Dikembangkan untuk mendukung kegiatan administrasi dan manajemen program studi di lingkungan Politeknik Negeri Cilacap.
 
 ## 📘 Daftar Isi
-- [Tentang Proyek](#tentang-proyek)
-- [Fitur Utama](#fitur-utama)
-- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Struktur Folder](#struktur-folder)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
+- [Tentang Proyek](#-tentang-proyek)
+- [Fitur Utama](#-fitur-utama)
+- [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
+- [Struktur Folder](#-struktur-folder)
+- [Kontribusi](#-kontribusi)
+- [Lisensi](#-lisensi)
 
 ## 📖 Tentang Proyek
 **SIAPRODI** adalah aplikasi berbasis web yang dirancang untuk membantu pengelolaan data dan aktivitas di tingkat **Program Studi**.
